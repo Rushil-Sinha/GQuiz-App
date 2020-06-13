@@ -1,0 +1,63 @@
+html
+{
+	height: 100%;
+}
+
+body
+{
+	text-align: center;
+	background-image: url(img/Mainmenu.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: Josefin Sans;
+	color: white;
+}
+
+#content
+{
+	padding-top: 10%;
+}
+
+h1
+{
+	font-weight: 700;
+	font-size: 3em;
+}
+
+h6
+{
+	font-weight: 700;
+}
+
+hr
+{
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
+}
+
+#geek
+{
+	background: #feffdf;
+	color: black;
+}
+#paws
+{
+	background: #ffe79a ;
+	color: black;
+}
+#past
+{
+	background: #ffa952 ;
+	color: black;
+}
+#equations
+{
+	background: #fc8210 ;
+	color: black;
+}
+#sense
+{
+	background: #ef5a5a;
+	color: black;
+}
